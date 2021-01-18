@@ -61,4 +61,4 @@ while 1:
         print(f"[-] Taken >> {user} | Checked: {co}")
 
 print(f"Found: {do} | Taken: {fa} | Checked: {co}\nChecker By Soud @_agf Soud#0737\nSaved All in Found.txt <3\n")
-input("Press any Key to Exit...\n")
+input("Press any Key to Exit...")
